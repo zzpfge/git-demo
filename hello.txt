@@ -1,4 +1,4 @@
-hello git
+hello git  hot fix first
 hello git
 hello git
 hello git
@@ -6,3 +6,5 @@ hello git
 hello git
 hello git
 hello git  master test conflict
+hello git  hot-fix test
+hello git
